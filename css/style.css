@@ -134,7 +134,7 @@
 .work-heading{
     width: 50%;
     text-align: center;
-    font-size: 50px;
+    font-size: 44px;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Raleway',serif;
@@ -145,10 +145,10 @@
     display: flex;
     flex-direction: row;
     margin-left: 200px;
-    gap: 170px;
+    gap: 140px;
 }
 .finished-project{
-   font-size: 40px;
+   font-size: 35px;
    font-family: 'Open Sans',serif;
    font-weight: 700;
 }
@@ -164,11 +164,12 @@
     display: flex;
     justify-content: center;
     
+    
 }
 
 .team-image{
-    height: 480px;
-    width: 1080px;
+    height: 683px;
+    width: 1144px;
     
 }
 
@@ -184,4 +185,151 @@
     width: 40%;
     font-size: 50px;
     font-family: 'Open Sans',serif;
+}
+.left-right{
+    display: flex;
+    flex-direction: row;
+}
+.left-part{
+    width: 700px;
+    margin-top: 120px;
+    margin-left: 120px;
+   
+}
+
+.desgin-heading{
+
+    width: 70%;
+    font-size: 35px;
+    font-family: 'Open Sans',serif;
+}
+
+.desgin-subheading{
+    width: 80%;
+    margin-top: 25px;
+    color: #808284;
+    font-size: 22px;
+    font-family: 'Raleway',serif;
+    font-weight: 550;
+    
+}
+.design-section-btn{
+    margin-bottom: 50px;
+}
+.desgin-btn{
+    margin-top: 20px;
+    background-color: #8BB7A2;
+    border: 1px solid #8BB7A2;
+    color: #F8FBF9;
+    font-size: 18px;
+    font-family: 'Raleway',serif;
+    font-weight: 800;
+    padding: 15px 50px;
+    text-align: center;
+}
+.rigth-part{
+    
+   width: 45%;
+    margin-top: 30px;
+    margin-left: 20px;   
+}
+.website-part-img{
+    width: 427px;
+    height: 429px;
+    object-fit: cover;
+}
+
+.section-four{
+    width: 100%;
+    margin-top: 40px;
+}
+
+.markating-left{
+    width:50%;
+    margin-left: 130px;
+}
+.networking-img{
+    width: 427px;
+    height: 429px;
+    
+}
+
+.markating-right{
+    width: 75%;
+    margin-top: 60px;
+    height: 300px;
+    margin-left: 200px;
+    
+}
+.marketing-heading{
+    width: 75%;
+    font-size: 35px;
+    font-family: 'Open Sans',serif;
+}
+.marketing-subheading{
+   
+    margin-top: 25px;
+    color: #808284;
+    font-size: 22px;
+    font-family: 'Raleway',serif;
+    font-weight: 550;
+}
+
+.section-five{
+    width: 100%;
+
+}
+.sales-left{
+    width: 700px;
+    margin-top: 120px;
+    margin-left: 90px;
+}
+.sales-heading{
+    width: 70%;
+    font-size: 35px;
+    font-family: 'Open Sans',serif;
+}
+.sales-subheading{
+    width: 80%;
+    margin-top: 25px;
+    color: #808284;
+    font-size: 22px;
+    font-family: 'Raleway',serif;
+    font-weight: 550;
+}
+.sales-section-btn{
+    margin-bottom: 50px;
+}
+.sales-right{ width: 45%;
+    margin-top: 30px;
+    margin-left: 20px;   
+}
+.sales-navigator-img{
+width: 430px;
+height: 429px;
+margin-top: 30px
+}
+
+.section-six{
+    width: 100%;
+    margin-left: 90px;
+    margin-top: 30px
+}
+.tead-head{
+    display: flex;
+    flex-direction: row;
+}
+.team-heading{
+    font-size: 30px;
+    width: 50%;
+    font-family: 'Open Sans',serif;
+}
+
+.team-subheading{
+    width: 80%;
+    margin-top: 25px;
+    color: #808284;
+    font-size: 22px;
+    font-family: 'Raleway',serif;
+    font-weight: 550;
 }
