@@ -14,10 +14,12 @@
 
 - What I learned from this Project?
   - 
-  - Learned how to make hosting landing page.
-  - Learned how to make button and reuse them. 
-  - Learned about making Testimonial Cards.
-  - Created price section as well as banner and beautiful footer.
+  - Learned how to make Business landing page.
+  - Learned how to email and button layout. 
+  - Learned about make profile Cards.
+  - Align the img with object fit property. 
+  - Learned how to make background transparent.
+  - Created beautiful footer.
   - How to use different Google Fonts in webpage.
   - Learned how to make responsive web-design.
   
@@ -28,7 +30,7 @@
 
 ## Time taken to finish this project
 
-- 10 hour to complete it.
+- 8 hour to complete it.
 
 
 ---
