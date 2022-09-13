@@ -207,7 +207,7 @@
     font-family: 'Open Sans', serif;
 }
 
-.left-right {
+.left-right,.left-right-marketing {
     display: flex;
     flex-direction: row;
 }
@@ -653,5 +653,105 @@
 .desgin-subheading{
     width: 50%;
 }
+.section-four {
+ width: 780px;
 
+}
+.left-right-marketing {
+    display: flex;
+    flex-direction: column;
+}
+.markating-left{
+    margin-left: 100px;;
+}
+.networking-img{
+    width: 360px;
+    height: 380px;;
+}
+.markating-right{
+    width: 50%;
+    font-size: 40px;
+    margin-left: 100px;
+}
+.section-five{
+    width: 780px;
+}
+.sales-navigator-img{
+    width: 360px;
+    height: 380px;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+.sales-left{
+    width: 60%;
+    font-size: 40px;
+    margin-left: 100px;
+}
+.section-six{
+    width: 780px;
+    margin-left: 100px;;
+}
+.team-heading{
+    width: 100%;
+    margin-left: 30px;
+}
+.team-head-right{
+    left: 0px;
+    top: 15px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    
+}
+.team-member-description{
+    width: 40%;
+}
+.more-member-btn{
+    justify-content: flex-start;
+    margin-left: 50px;
+}
+.footer-section{
+    background-color: #10181D;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    overflow-x: hidden;
+}
+.footer-nav-logo,.social-media{
+    visibility: collapse;
+    position: absolute;
+}
+.line>hr {
+    width: 40%;
+    margin-left: 100px;
+}
+.footer-bottom-headings{
+    visibility: collapse;
+    position: absolute;
+}
+.footer-bottom ul{
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+}
+.item-1,
+.item-2,
+.item-3,
+.item-4,
+.item-5 {
+    width: 40%;
+}
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .footer-section{
+        background-color: #10181D;
+        display: flex;
+        flex-direction: column;
+        width: 380px;
+    }
 }
